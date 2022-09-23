@@ -21,7 +21,7 @@ named *cMap.dat* (the residue's names are written in *resNames.dat*).
 The parameters are:
 - **eps**: minimum distance to declare the formation of an oligomer.
 - **refStruct**: Pathway to reference structure file (PDB).
-- **traj**: Pathway to trajectory file (extnsions: TRR, XTC)
+- **traj**: Pathway to trajectory file (extensions: TRR, XTC)
 - **initF**: Integer that indicates the initial frame to start the measurement.
 - **finishF**: Integer that indicates the final frame to stop the measurement (not included).
 
