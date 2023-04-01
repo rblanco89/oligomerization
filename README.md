@@ -30,9 +30,9 @@ and also a notebook to plot results.
 
 ## Extra files
 
--In the directory *input* there are the PDB input files to run the python script.
--In the "input_MD.zip" file there are the neccesary files to run MD as described in our work.
--In the "plots_data.zip" file there are the data of the figures presented in our work.
+- In the directory *input* there are the PDB input files to run the python script.
+- In the "input_MD.zip" file there are the neccesary files to run MD as described in our work.
+- In the "plots_data.zip" file there are the data of the figures presented in our work.
 
 
 ## Cite our work
