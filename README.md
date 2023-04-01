@@ -27,3 +27,14 @@ The parameters are:
 
 In the directory *pyNotebooks/*, there are the Jupyter notebook versión  of the script above
 and also a notebook to plot results.
+
+## Extra files
+
+-In the directory *input* there are the PDB input files to run the python script.
+-In the "input_MD.zip" file there are the neccesary files to run MD as described in our work.
+-In the "plots_data.zip" file there are the data of the figures presented in our work.
+
+
+## Cite our work
+Chi, L. A., Asgharpour, S., Blanco-Rodriguez, R., & Martinez-Archundia, M. (2023). Atomistic molecular insight on Angiotensin-(1-7) inter-peptide interactions. bioRxiv, 2023-02. 
+
