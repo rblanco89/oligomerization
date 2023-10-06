@@ -36,5 +36,4 @@ and also a notebook to plot results.
 
 
 ## Cite our work
-Chi, L. A., Asgharpour, S., Blanco-Rodriguez, R., & Martinez-Archundia, M. (2023). Atomistic molecular insight on Angiotensin-(1-7) inter-peptide interactions. bioRxiv, 2023-02. 
-
+Chi-Uluac, L. A., Asgharpour, S., Blanco-Rodríguez, R. G., & Martínez-Archundia, M. (2023). Atomistic Molecular Insights into Angiotensin-(1-7) Interpeptide Interactions. *Journal of Chemical Information and Modeling*, 63(16), 5331-5340.
